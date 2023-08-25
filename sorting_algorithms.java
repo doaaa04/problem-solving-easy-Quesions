@@ -21,7 +21,7 @@
                                 {a1,...,an is in increasing order}
 *******************************************************************************/
 import java.util.Scanner;
-public class Main
+public class sorting_algorithms
 {
 	public static void main(String[] args) {
 		Scanner scan =new Scanner (System.in);
