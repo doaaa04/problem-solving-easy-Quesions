@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class lexicographically{
 	public static void main(String[] args) {
 		Scanner scan =new Scanner (System.in);
 		String one =scan.next().toLowerCase();
